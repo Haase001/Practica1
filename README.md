@@ -72,4 +72,4 @@ Se crea una linea nueva como si fuera de otro parrafo
 <a href="https://www.youtube.com/watch?v=77Ggk1uzO2A" target="_blank"><img src="../Practica1/img/markdown.png" 
 alt="IMAGE ALT TEXT HERE" width="260" height="200" border="15" /></a>
 
-Agregue una linea mas
+Agregue una linea mas con un pequeño emoji :rage:
