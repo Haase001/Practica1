@@ -28,7 +28,7 @@ o poner
 <!-- Nota solo para mi -->
 
 ---
-Solo es una linea horizontal lo que está arriba, sirve bien para separaresta segunda parte, donde descubro que hay diferentes formas de hacer lo mismo o cosas similares.
+Solo es una linea horizontal lo que está arriba, sirve bien para separar esta segunda parte, donde descubro que hay diferentes formas de hacer lo mismo o cosas similares.
 
 ![Imagen de prueba](img/Rabbit.jpg)
 [Un hipervínculo de prueba](https://google.com)
